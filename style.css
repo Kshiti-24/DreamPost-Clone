@@ -5,7 +5,7 @@
   --white60: rgba(255, 255, 255, 0.6);
   --white75: rgba(255, 255, 255, 0.75);
   --white80: rgba(255, 255, 255, 0.8);
-  --brand-color: #1f80e0;
+  --brand-color: #328ae1;
 }
 * {
   box-sizing: border-box;
@@ -21,7 +21,7 @@
 }
 #notification {
   position: fixed;
-  background-color: #a644e5;
+  background-color: #8827c4;
   width: fit-content;
   right: 25%;
   bottom: 25%;
@@ -65,7 +65,7 @@
   margin: 10px;
 }
 #notificate-button a:hover {
-  color: #1f80e0;
+  color: #107ce8;
   font-weight: bold;
   text-decoration: none;
 }
@@ -92,7 +92,7 @@
   margin-right: 5px;
 }
 body {
-  background-color: #131927;
+  background-color: #1b2c53;
 }
 .clear {
   clear: both;
